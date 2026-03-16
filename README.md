@@ -1,37 +1,49 @@
 ## Hi there 👋
-# Hola 👋 Soy Nicole Amaya
 
-🎓 Estudiante de Ingeniería en Informática  
-📍 El Salvador  
-💻 Interesada en programación y tecnología  
+<h1 align="center">Hola 👋 Soy Andrea Landaverde</h1>
 
-## 🚀 Tecnologías
+<p align="center">
+🎓 Estudiante de Ingeniería Informática <br>
+💻 Apasionada por la programación y la tecnología <br>
+📚 Actualmente aprendiendo lógica, programación y matemáticas
+</p>
 
-![Python](https://img.shields.io/badge/Python-blue)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![HTML](https://img.shields.io/badge/HTML-orange)
+---
 
+## 🌟 Sobre mí
 
-## 📚 Actualmente aprendiendo
-- Matemática discreta
-- Programación
-- Lógica computacional
+✨ Soy estudiante universitaria interesada en el mundo de la tecnología.  
+🚀 Me gusta aprender sobre programación, resolver problemas y mejorar mi lógica.  
+📖 Actualmente estoy estudiando programación, matemática discreta y precálculo.
 
-## 🎯 Objetivos
-- Mejorar mis habilidades de programación
-- Crear proyectos propios
-- Aprender desarrollo de software
-<!--
-**ALandaverde77/ALandaverde77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías que estoy aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+
+</p>
+
+---
+
+## 🎯 Mis objetivos
+
+✔ Mejorar mi lógica de programación  
+✔ Aprender desarrollo de software  
+✔ Crear proyectos propios  
+✔ Convertirme en una gran ingeniera en informática 💻
+
+---
+
+## 🌎 Conecta conmigo
+
+📧 Email: 00032026@uca.edu.sv  
+
+---
+
+⭐ Gracias por visitar mi perfil
