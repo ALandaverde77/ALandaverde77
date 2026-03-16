@@ -49,5 +49,5 @@
 ## ⭐ Gracias por visitar mi perfil!!
 
 <p align="center">
-✨ ¡Sigue explorando mis proyectos! ✨
+✨✨
 </p>
