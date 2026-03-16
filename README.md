@@ -24,28 +24,8 @@
 <img src="https://skillicons.dev/icons?i=python,git,github,html,css,vscode" />
 
 </p>
-
 ---
-
-## 📊 Mis estadísticas en GitHub
-
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 Actividad en GitHub
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight" />
-
-</p>
 
 ---
 
