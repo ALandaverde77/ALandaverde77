@@ -1,49 +1,74 @@
 ## Hola!!
+<h1 align="center">✨ Hola, soy Andrea Landaverde ✨</h1>
 
-<h1 align="center">Hola 👋 Soy Andrea Landaverde</h1>
+<h3 align="center">💻 Estudiante de Ingeniería Informática | Apasionada por la tecnología 🚀</h3>
 
 <p align="center">
-🎓 Estudiante de Ingeniería Informática <br>
-💻 Apasionada por la programación y la tecnología <br>
-📚 Actualmente aprendiendo lógica, programación y matemáticas
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
 </p>
 
 ---
 
-## 🌟 Sobre mí
+## 🌸 Sobre mí
 
-✨ Soy estudiante universitaria interesada en el mundo de la tecnología.  
-🚀 Me gusta aprender sobre programación, resolver problemas y mejorar mi lógica.  
-📖 Actualmente estoy estudiando programación, matemática discreta y precálculo.
+🌱 Actualmente estoy aprendiendo **programación, matemática discreta y lógica computacional**  
+💡 Me gusta resolver problemas y aprender cosas nuevas todos los días  
+🚀 Mi meta es convertirme en una **ingeniera en informática y desarrolladora de software**
 
 ---
 
-## 🚀 Tecnologías que estoy aprendiendo
+## 💻 Tecnologías que estoy aprendiendo
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+<img src="https://skillicons.dev/icons?i=python,git,github,html,css,vscode" />
 
 </p>
 
 ---
 
-## 🎯 Mis objetivos
+## 📊 Mis estadísticas en GitHub
 
-✔ Mejorar mi lógica de programación  
-✔ Aprender desarrollo de software  
-✔ Crear proyectos propios  
-✔ Convertirme en una gran ingeniera en informática 💻
+<p align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
 
-## 🌎 Conecta conmigo
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight"/>
 
-📧 Email: 00032026@uca.edu.sv  
+</p>
 
 ---
 
-⭐ Gracias por visitar mi perfil
+## 🔥 Actividad en GitHub
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🎯 Mis objetivos como programadora
+
+✨ Mejorar mi lógica de programación  
+✨ Aprender nuevos lenguajes de programación  
+✨ Crear proyectos interesantes  
+✨ Contribuir a proyectos tecnológicos  
+
+---
+
+## 🌎 Un poco sobre mí
+
+🌎 El Salvador  
+🎓 Estudiante universitaria  
+📚 Siempre aprendiendo algo nuevo  
+☕ Programación + café = felicidad
+
+---
+
+## ⭐ Gracias por visitar mi perfil!!
+
+<p align="center">
+✨ ¡Sigue explorando mis proyectos! ✨
+</p>
