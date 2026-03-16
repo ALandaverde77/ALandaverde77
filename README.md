@@ -1,5 +1,25 @@
 ## Hi there 👋
+# Hola 👋 Soy Nicole Amaya
 
+🎓 Estudiante de Ingeniería en Informática  
+📍 El Salvador  
+💻 Interesada en programación y tecnología  
+
+## 🚀 Tecnologías
+- Python
+- Git
+- GitHub
+- HTML
+
+## 📚 Actualmente aprendiendo
+- Matemática discreta
+- Programación
+- Lógica computacional
+
+## 🎯 Objetivos
+- Mejorar mis habilidades de programación
+- Crear proyectos propios
+- Aprender desarrollo de software
 <!--
 **ALandaverde77/ALandaverde77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
