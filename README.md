@@ -6,10 +6,11 @@
 💻 Interesada en programación y tecnología  
 
 ## 🚀 Tecnologías
-- Python
-- Git
-- GitHub
-- HTML
+
+![Python](https://img.shields.io/badge/Python-blue)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![HTML](https://img.shields.io/badge/HTML-orange)
+
 
 ## 📚 Actualmente aprendiendo
 - Matemática discreta
