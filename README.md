@@ -27,7 +27,6 @@
 ---
 <p align="center">
 
----
 
 ## 🎯 Mis objetivos como programadora
 
